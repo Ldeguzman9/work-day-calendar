@@ -13,9 +13,9 @@ Calendar Features:
 # Calendar Screen Shots
 
 - **Main Screen:**
-  ![Calendar](https://github.com/Ldeguzman9/code-quiz/blob/main/assets/images/quiz%20screen.png?raw=true)
+  ![Calendar](https://github.com/Ldeguzman9/work-day-calendar/blob/main/assets/images/Calendar%20Main.png?raw=true)
 - **Local Storage:**
-  ![Local Storage](https://github.com/Ldeguzman9/code-quiz/blob/main/assets/images/question%20screen.png?raw=true)
+  ![Local Storage](https://github.com/Ldeguzman9/work-day-calendar/blob/main/assets/images/Calendar%20Local%20Storage.png?raw=true)
 
 # Technical Skills
 
@@ -27,4 +27,4 @@ Calendar Features:
 
 # Deployed Link
 
-https://ldeguzman9.github.io/code-quiz/
+https://ldeguzman9.github.io/work-day-calendar/
